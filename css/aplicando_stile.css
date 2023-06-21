@@ -1,0 +1,14 @@
+
+.titulo-logo{
+    color: var(--font-color) ;
+    font-family: var(--Raleway);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.items_aspectos{
+    color: var(--font-color);
+    font-family: var(--Raleway);
+    font-size: 16px;
+    font-weight: 500;
+}
